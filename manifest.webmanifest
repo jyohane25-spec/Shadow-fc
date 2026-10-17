@@ -1,0 +1,11 @@
+{
+  "name": "SHADOW FC",
+  "short_name": "SHADOW FC",
+  "description": "Original 3D football game",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07150f",
+  "theme_color": "#07150f",
+  "icons": []
+}
